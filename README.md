@@ -1,4 +1,6 @@
-### Hi there 👋
+## Cláudio Silva  
+
+[![Gmail Badge](https://img.shields.io/badge/-claudio.barbosa@ufv.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudio.barbosa@ufv.br)](mailto:diego.schell.f@gmail.com)
 
 <!--
 **Cl4udioBS/Cl4udioBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
